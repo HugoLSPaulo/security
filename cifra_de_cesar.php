@@ -1,7 +1,7 @@
 <?php
 
 //Criptografia
-$texto_claro = "navara te amo";
+$texto_claro = "hugo";
 $letras = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z'];
 $aux = array();
 for ($y = 0; $y <= strlen($texto_claro); $y++) {
